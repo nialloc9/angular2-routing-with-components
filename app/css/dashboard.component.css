@@ -1,0 +1,8 @@
+.random-text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+    margin: 50px;
+}
